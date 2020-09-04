@@ -7,4 +7,10 @@ I've approached the problem from a pixel-threshold perspective using the HSV col
 Then some postprocessing using kernel morphology transformations to remove external crap and a canny filter to improve the contour detection capabilities.
 
 Et voilà!
+Some demos:
+
+![](Figure_1.png)
+
+![](Figure_2.png)
+
 
