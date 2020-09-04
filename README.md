@@ -1,4 +1,4 @@
-# realtime-Manuscript-Auto-Camera-Scanner
+# Realtime-Manuscript-Auto-Camera-Scanner
 A gentle try to replicate the famous app CamScanner from zero but with half of the capabilities and double of problems.
 
 A video can be found in my [Linkedln page](https://www.linkedin.com/in/diego-bonilla-salvador/).
